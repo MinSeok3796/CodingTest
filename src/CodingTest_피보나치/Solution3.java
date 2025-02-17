@@ -13,7 +13,7 @@ public class Solution3 {
 
         int i = Integer.parseInt(str);
 
-        int i1 = solution3(i-1);
+        int i1 = solution3(i);
 
         System.out.println(i1);
     }

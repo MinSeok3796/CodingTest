@@ -30,7 +30,7 @@ public class Solution2 {
             arr.add(arr.get(i)+arr.get(i-1));
         }
 
-        System.out.println(arr.get(n-1));
+        System.out.println(arr.get(n));
         return arr.get(n-1);
 
     }
