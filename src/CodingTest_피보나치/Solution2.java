@@ -31,7 +31,7 @@ public class Solution2 {
         }
 
         System.out.println(arr.get(n));
-        return arr.get(n-1);
+        return arr.get(n);
 
     }
 
