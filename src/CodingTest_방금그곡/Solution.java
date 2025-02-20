@@ -24,6 +24,7 @@ public class Solution {
         String answer = "(None)";
         int maxPlayTime = 0;
 
+
         // 기억한 멜로디 변환 (C# -> H 등)
         m = convertSharpNotes(m);
 
